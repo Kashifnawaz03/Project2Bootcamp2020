@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import NavBar from './Components/NavBar.js';
-import GlobalData from './Components/GlobalData';
+import NavBar from '../Components/NavBar.js';
+import GlobalData from '../Components/GlobalData';
 
 function App() {
   return (
